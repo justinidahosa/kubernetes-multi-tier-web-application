@@ -4,6 +4,7 @@ This project demonstrates a production-style Kubernetes deployment of a multi-ti
 
 An architecture diagram is included to show how all components interact.
 
+## Architecture Diagram
 ![Architecture Diagram](architecture-diagram.png.jpg)
 
 ---
